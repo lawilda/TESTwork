@@ -1,0 +1,107 @@
+﻿.works {
+  padding-bottom:20rem;
+    padding: 10.8rem 0;
+}
+
+.works__nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.4rem;
+}
+
+.works__nav-link {
+    margin: 0 1.2rem;
+    font-size: .8rem;
+    color: #808080
+ 
+}
+
+.works__mav-link:hover
+{
+    text-decoration: underline;
+}
+
+.work {
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 4px #000000;
+    transition: box-shadow .2s linear;
+}
+.work:hover
+{
+    box-shadow: 0 0 25px #000000;
+}
+
+.work__image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.work__content {
+    padding: 1rem 0.8rem;
+}
+
+.work__cat {
+    margin-bottom: 0.5rem;
+    font-size: .8rem;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.work__title {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.06rem;
+    color:#000000;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -1rem 2.8rem;
+}
+
+.projects__col {
+    flex-basis: 33.33333%;
+    padding: 1rem;
+}
+
+.btn {
+    display: inline-block;
+    vertical-align: top;
+    padding: 1.05em 1.7em;
+    min-width: 170px;
+    border: 1px solid #808080;
+    border-radius: 1.8em;
+    background: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 1.06rem;
+    line-height: 1.1;
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color .2s linear, color .2s linear, box-shadow .2s linear;
+}
+
+.btn:focus
+{
+    outline: none;
+}
+
+.btn:hover 
+{
+     background-color: #000000;
+     box-shadow: 2px 2px 10px #000;
+     color: #fff;
+}
+/*Modificators*/
+.btn--sm {
+    padding: .7em 1.2em;
+    font-size: .94rem;
+    font-weight: 700;
+    border-width: 2px;
+}

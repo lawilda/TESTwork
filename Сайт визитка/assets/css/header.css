@@ -1,0 +1,38 @@
+
+.header {
+    padding:1.2rem 0;
+}
+
+.header__inner {
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.itcomp 
+{
+    display:flex;
+}
+.itcomp__avatar
+{
+    padding-top:1rem;
+    width:57px;
+    height:57px;
+}
+.nav {
+    display:flex;
+    height:100%;
+}
+.nav__link {
+    padding: 0.50rem 1.5rem;
+    font-size: 0.93rem;
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 20px;
+}
+.nav__link:hover {
+        border-color: #808080;
+}

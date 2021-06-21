@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    line-height: 1.6;
+}
+
+html {
+    font-size: 15px;
+}
+
+.container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6 {
+margin:0;
+}
