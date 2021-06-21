@@ -1,0 +1,32 @@
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.exe
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.deps.json
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.runtimeconfig.json
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.runtimeconfig.dev.json
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.dll
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\ref\3.1.2.dll
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.pdb
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.csprojAssemblyReference.cache
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.AssemblyInfoInputs.cache
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.AssemblyInfo.cs
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.dll
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\ref\3.1.2.dll
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.pdb
+C:\Users\ilyas\Desktop\Новая папка (3)\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.genruntimeconfig.cache
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.exe
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.deps.json
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.runtimeconfig.json
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.runtimeconfig.dev.json
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.dll
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\ref\3.1.2.dll
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\bin\Debug\net5.0\3.1.2.pdb
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.csprojAssemblyReference.cache
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.AssemblyInfoInputs.cache
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.AssemblyInfo.cs
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.dll
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\ref\3.1.2.dll
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.pdb
+C:\Users\ilyas\Desktop\C#\3.1.2\3.1.2\3.1.2\obj\Debug\net5.0\3.1.2.genruntimeconfig.cache

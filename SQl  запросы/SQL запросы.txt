@@ -1,0 +1,4 @@
+SELECT `Склад` FROM `Товар`  WHERE `Артикул`= var
+SELECT `Количество` FROM `Склад` WHERE `Количество` <> 0
+SELECT `Товар` FROM `Склад` WHERE `Город` = var
+SELECT  MAX(Количество) `Номер склада`   FROM `Склад`  

@@ -1,0 +1,17 @@
+softwear development life cicle каскадная модель 
+1) идея(в голове product owner)
+2) Анализ идеи(бизнесаналитики и системные аналитики)
+3)srs-System requirements specifications(Спецификации системных требований на русском тз спецификация набор всех терминов кторые мы хотим встретить на выходе)
+BRD busines requirements documentation
+4) Arch & Design проектировка будущего приложения 
+5)Development- разработка 
+6)build работа тестировщика  
+7)testing QA
+8)reporting, bug reporting
+9)bugFixing build 0.1
+10)Verification
+11)RC-build
+12)Acceptanee Testing
+13)release
+14)supp
+15)Death
